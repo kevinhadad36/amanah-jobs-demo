@@ -1,2 +1,2 @@
-:HL["/amanah-jobs-demo/_next/static/css/b1d83dec444cbb73.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"conseils","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"giVdb6QOBTo_ZlJGh9nlL"}
+:HL["/amanah-jobs-demo/_next/static/css/b3fce7da29d1e354.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"conseils","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ogYAlvIVIZtSvi1vBHjU6"}
